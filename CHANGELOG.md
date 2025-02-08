@@ -6,6 +6,7 @@
 - Add changelog link to gemspec [605](https://github.com/roo-rb/roo/pull/605)
 - Upgraded rack via usage of rackup
 - Resolve deprecation warnings about uri DEFAULT_PARSER
+- Test against JRuby 9.4.11.0
 
 ### Removed
 - Support for ruby 2.7, 3.0
