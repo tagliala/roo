@@ -18,7 +18,7 @@ jobs:
           - '3.3'
           - '3.4'
           - ruby-head
-          - jruby-9.4.10.0
+          - jruby-9.4.11.0
         include:
           - ruby: ruby-head
             env:
